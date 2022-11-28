@@ -1,0 +1,32 @@
+Index,TTP,Benefit,Cost,Index_Platforms,Platforms
+0,Credential Dumping,47,8,0,Windows
+1,Custom Command and Control Protocol,63,8,1,macOS
+2,Data from Local System,71,6,2,Office 365
+3,Data from Network Shared Drive,71,5,3,SaaS
+4,Drive-by Compromise,75,6,4,AWS
+5,Exfiltration Over Alternative Protocol,71,8,5,GCP
+6,Exfiltration Over Command and Control Channel,71,7,6,Linux
+7,Network Share Discovery,33,5,7,Azure
+8,New Service,61,3,8,Azure AD
+9,Pass the Hash,78,7,,
+10,PowerShell,88,7,,
+11,Registry Run Keys / Startup Folder,55,3,,
+12,Scripting,88,7,,
+13,Spearphishing Attachment,88,5,,
+14,Spearphishing Link,68,5,,
+15,Standard Application Layer Protocol,63,6,,
+16,System Service Discovery,33,5,,
+17,User Execution,47,3,,
+18,Replication Through Removable Media,36,5,,
+19,Data Encrypted for Impact,57,6,,
+20,Virtualization/Sandbox Evasion,36,7,,
+21,DLL Search Order Hijacking,53,9,,
+22,Credentials in Files,47,5,,
+23,Remote System Discovery,33,5,,
+24,Windows Remote Management,78,7,,
+25,Brute Force,72,4,,
+26,External Remote Services,74,7,,
+27,Network Service Scanning,33,6,,
+28,Create Account,63,6,,
+29,Web Shell,64,5,,
+30,Exploit Public-Facing Application,65,7,,

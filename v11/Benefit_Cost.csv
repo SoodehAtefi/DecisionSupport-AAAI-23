@@ -1,0 +1,30 @@
+Index,TTP,Benefit,Cost,,Index_Platforms,Platforms
+0,OS Credential Dumping,47,8,,0,Windows
+1,Non-Application Layer Protocol,63,8,,1,macOS
+2,Data from Local System,71,6,,2,Containers
+3,Data from Network Shared Drive,71,5,,3,Office 365
+4,Drive-by Compromise,75,6,,4,SaaS
+5,Exfiltration Over Alternative Protocol,71,8,,5,Network
+6,Exfiltration Over C2 Channel,71,7,,6,IaaS
+7,Network Share Discovery,33,5,,7,Linux
+8,Create or Modify System Process,61,3,,8,Azure AD
+9,Use Alternate Authentication Material,78,7,,9,Google Workspace
+10,Boot or Logon Autostart Execution,55,3,,,
+11,Command and Scripting Interpreter,88,7,,,
+12,Phishing,78,5,,,
+13,Application Layer Protocol,63,6,,,
+14,System Service Discovery,33,5,,,
+15,User Execution,47,3,,,
+16,Replication Through Removable Media,36,5,,,
+17,Data Encrypted for Impact,57,6,,,
+18,Virtualization/Sandbox Evasion,36,7,,,
+19,Hijack Execution Flow,53,9,,,
+20,Unsecured Credentials,47,5,,,
+21,Remote System Discovery,33,5,,,
+22,Remote Services,78,7,,,
+23,Brute Force,72,4,,,
+24,External Remote Services,74,7,,,
+25,Network Service Discovery,33,6,,,
+26,Create Account,63,6,,,
+27,Server Software Component,64,5,,,
+28,Exploit Public-Facing Application,65,7,,,
